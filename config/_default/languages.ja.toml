@@ -1,0 +1,33 @@
+languageCode = "ja"
+languageName = "Japanese"
+title = "クローズド環境でweb閲覧できるデータベースのhtmlファイル"
+weight = 1
+
+
+[params]
+  displayName = "JP"
+  isoCode = "ja"
+  rtl = false
+
+
+  #logo = "img/blowfish_logo_transparent.png"
+  logo = "img/icon0152.png"
+
+  description = "markdown形式のテキストで変更する"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+  dateFormat = "2006年January2日 "
+  #dateFormat = "2 January 2006"
+
+# [author]
+#   name = "yamadatt"
+#   image = "img/dancer.jpg"
+#   headline = "ラジオ好き"
+#   bio = "さすらいのラジオリスナー"
+#   links = [
+#     { twitter = "https://twitter.com/yamadatt" },
+#     { github = "https://github.com/yamadatt" },
+#   ]
+
+
+
